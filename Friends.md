@@ -2,7 +2,7 @@
 layout: default
 title: Friends
 ---
-# Friends page
+g# Friends page
 
 Berikut teman-teman saya dikelas:
 - [Ahmad Aulia Fahlevi]_(https://lepii1.github.io/)_

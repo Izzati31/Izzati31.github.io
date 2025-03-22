@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Blog
@@ -8,10 +7,10 @@ title: Blog
 
 <ul>
     {% for post in site.posts %}
-     <li>
+    <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
         <p>{{ post.date | date_to_string }}</p>
         <p>{{ post.excerpt }}</p>
-     </li>
+    </li>
     {% endfor %}
 </ul>

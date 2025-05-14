@@ -1,7 +1,9 @@
-<nav>
-    {% for item in site.data.navigation %}
-    <a href="{{ item.link }}" {% if page.url == item.link %} class="current"{% endif %}>
-        {{ item.name }}
-    </a>
-    {% endfor %}
-</nav>
+<header>
+  <img src="/assets/images/izzati.jpg" alt="Foto Profil" style="width: 120px; height: 120px; border-radius: 50%; border: 4px solid white;">
+  <nav>
+    <a href="/">Beranda</a>
+    <a href="/tentang">Tentang</a>
+    <a href="/friends">Friends</a>
+    <a href="/blog">Blog</a>
+  </nav>
+</header>

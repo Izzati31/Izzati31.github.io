@@ -1,4 +1,4 @@
-bpdy,
+body,
 h1,
 h2,
 p {
@@ -17,7 +17,7 @@ header {
   text-align: center;
   padding: 24px;
   color: #fff;
-  background-color: #3b7b3a;
+  background-color: #4b0082;
 }
 
 main {
@@ -32,7 +32,7 @@ footer {
   padding: 8px;
   margin-top: 24px;
   color: #fff;
-  background-color: #3b7b3a;
+  background-color: #4b0082;
 }
 
 h2 {
@@ -48,7 +48,7 @@ nav ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #3b7b3a;
+  background-color: #4b0082;
 }
 nav li {
   float: left;
@@ -61,25 +61,25 @@ nav li a {
   text-decoration: none;
 }
 nav li a:hover:not(.active) {
-  background-color: #fbbc05;
+  background-color: #dda0dd;
 }
 
 .container {
-  width: 80;
+  width: 80%;
   margin: auto;
   overflow: hidden;
 }
 
 .profile-picture {
-  width: 200px;
+  width: 150px;
   height: 150px;
   border-radius: 50%;
   margin: 24px auto;
-  background-color: #fbbc05;
+  background-color: #dda0dd;
 }
 
 .active {
-  background-color: #fbbc05;
+  background-color: #dda0dd;
 }
 
 /*# sourceMappingURL=styles.css.map */

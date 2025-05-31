@@ -1,0 +1,9 @@
+title: Izzati Nurvira
+email: izzatinurvira3126@gmail.com
+description: I'm Izzati Nurvira, i am from Sigli.I am currently living in the dormitory of the Lhokseumawe State Polytechnic.
+url: https://izzati31.github.io
+
+plugins:
+ - jekyll-feed
+ - jekyll-sitemap
+ - jekyll-seo-tag

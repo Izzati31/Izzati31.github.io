@@ -1,3 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-31T08:37:04+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Izzati Nurvira</title><subtitle>I&apos;m Izzati Nurvira, i am from Sigli.I am currently living in the dormitory of the Lhokseumawe State Polytechnic.</subtitle><entry><title type="html">HTML Link dan Lists</title><link href="http://localhost:4000/2025/03/21/html-link-dan-lists.html" rel="alternate" type="text/html" title="HTML Link dan Lists" /><published>2025-03-21T00:00:00+07:00</published><updated>2025-03-21T00:00:00+07:00</updated><id>http://localhost:4000/2025/03/21/html-link-dan-lists</id><content type="html" xml:base="http://localhost:4000/2025/03/21/html-link-dan-lists.html"><![CDATA[<p>Penjelasan tentang link dan lists pada HTML.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-12T17:21:45+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Izzati Nurvira</title><subtitle>I&apos;m Izzati Nurvira, i am from Sigli.I am currently living in the dormitory of the Lhokseumawe State Polytechnic.</subtitle><entry><title type="html">Praktikum 7</title><link href="http://localhost:4000/2025/05/23/Praktikum-7.html" rel="alternate" type="text/html" title="Praktikum 7" /><published>2025-05-23T00:00:00+07:00</published><updated>2025-05-23T00:00:00+07:00</updated><id>http://localhost:4000/2025/05/23/Praktikum-7</id><content type="html" xml:base="http://localhost:4000/2025/05/23/Praktikum-7.html"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Menambahkan ke folder _students</title><link href="http://localhost:4000/2025/05/16/Praktikum-6.html" rel="alternate" type="text/html" title="Menambahkan ke folder _students" /><published>2025-05-16T00:00:00+07:00</published><updated>2025-05-16T00:00:00+07:00</updated><id>http://localhost:4000/2025/05/16/Praktikum-6</id><content type="html" xml:base="http://localhost:4000/2025/05/16/Praktikum-6.html"><![CDATA[<p>Menambahkan ke folder _students</p>
 
-<p><img src="/assets/images/izzati.jpg" alt="HTML_Link_dan_Lists" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Penjelasan tentang link dan lists pada HTML.]]></summary></entry><entry><title type="html">Belajar Buat Post</title><link href="http://localhost:4000/2025/03/21/belajar-buat-post.html" rel="alternate" type="text/html" title="Belajar Buat Post" /><published>2025-03-21T00:00:00+07:00</published><updated>2025-03-21T00:00:00+07:00</updated><id>http://localhost:4000/2025/03/21/belajar-buat-post</id><content type="html" xml:base="http://localhost:4000/2025/03/21/belajar-buat-post.html"><![CDATA[<p>Belajar Buat Post</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Belajar Buat Post]]></summary></entry></feed>
+<p>16 may 2025
+Belajar Menambahkan ke folder _students di repository lain</p>
+
+<h1 id="langkah-langkah">Langkah-Langkah</h1>
+
+<ul>
+  <li>Buka repository github tujuan</li>
+  <li>Lalu klik “_students” pada repository tersebut</li>
+  <li>Kemudian klik pada bagian titik tiga diatas history commit</li>
+  <li>Klik “Create new file” untuk menambahkan file baru</li>
+  <li>Berikan nama file</li>
+  <li>Isi bagian “Enter file contents here” sesuai dengan format contoh</li>
+  <li>Kemudian klik “Commit Changes”</li>
+  <li>Dan berikan nama “Commit Changes” tersebut sesuai nama masing-masing</li>
+  <li>Dan klik “Propose changes”</li>
+  <li>Setelah selesai semua, klik “Create pull request”</li>
+  <li>Dan tunggu hingga di accept oleh owner repository tersebut.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Menambahkan ke folder _students]]></summary></entry><entry><title type="html">Praktikum 5</title><link href="http://localhost:4000/2025/04/25/Praktikum-5.html" rel="alternate" type="text/html" title="Praktikum 5" /><published>2025-04-25T00:00:00+07:00</published><updated>2025-04-25T00:00:00+07:00</updated><id>http://localhost:4000/2025/04/25/Praktikum-5</id><content type="html" xml:base="http://localhost:4000/2025/04/25/Praktikum-5.html"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Praktikum 4</title><link href="http://localhost:4000/2025/03/21/Praktikum-4.html" rel="alternate" type="text/html" title="Praktikum 4" /><published>2025-03-21T00:00:00+07:00</published><updated>2025-03-21T00:00:00+07:00</updated><id>http://localhost:4000/2025/03/21/Praktikum-4</id><content type="html" xml:base="http://localhost:4000/2025/03/21/Praktikum-4.html"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Belajar Buat Post</title><link href="http://localhost:4000/2025/03/14/Praktikum-3.html" rel="alternate" type="text/html" title="Belajar Buat Post" /><published>2025-03-14T00:00:00+07:00</published><updated>2025-03-14T00:00:00+07:00</updated><id>http://localhost:4000/2025/03/14/Praktikum-3</id><content type="html" xml:base="http://localhost:4000/2025/03/14/Praktikum-3.html"><![CDATA[<p>Belajar Buat Post</p>
+
+<p>14 Maret 2025
+Mempelajari cara membuat post dengan bahasa markdown</p>
+
+<h1 id="cara-membuat-post-dengan-markdown">Cara Membuat Post dengan Markdown</h1>
+
+<p>Mempelajari cara membuat postingan menggunakan bahasa markdown.
+Markdown adalah bahasa markup ringan yang mudah digunakan untuk menulis teks dengan format tertentu, seperti *teks tebal, *teks miring, tautan, gambar, dan lainnya.</p>
+
+<p>🧱 Struktur Dasar Markdown</p>
+
+<ol>
+  <li>Judul / Heading</li>
+</ol>
+
+<p>Gunakan tanda # untuk membuat heading (maksimal 6 level):</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+</code></pre></div></div>
+
+<ol>
+  <li>Teks Format</li>
+</ol>
+
+<p>Untuk mengatur gaya tulisan:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>*Tebal*
+*Miring*
+~Coret~
+</code></pre></div></div>
+
+<ol>
+  <li>Paragraf</li>
+</ol>
+
+<p>Langsung tulis saja. Markdown akan otomatis membaca baris kosong sebagai paragraf baru.</p>
+
+<p>ini adalah paragraf pertama</p>
+
+<p>ini paragraf kedua</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Belajar Buat Post]]></summary></entry><entry><title type="html">Membuat Index.html dan jekyll serve</title><link href="http://localhost:4000/2025/03/07/Praktikum-2.html" rel="alternate" type="text/html" title="Membuat Index.html dan jekyll serve" /><published>2025-03-07T00:00:00+07:00</published><updated>2025-03-07T00:00:00+07:00</updated><id>http://localhost:4000/2025/03/07/Praktikum-2</id><content type="html" xml:base="http://localhost:4000/2025/03/07/Praktikum-2.html"><![CDATA[<p>Membuat Index.html dan menjalankan jekyll serve</p>
+
+<p>07 Mar 2025</p>
+<ul>
+  <li>Membuat index.html dan menjalankan jekyll serve</li>
+</ul>
+
+<h1 id="menjalankan-jekyll-serve">Menjalankan jekyll serve</h1>
+
+<ul>
+  <li>setelah membuat sebuah repository dengan nama sendiri</li>
+  <li>Clone repository tersebut ke lokal</li>
+  <li>Kemudian masuk ke dalam folder repository tersebut dan install melalui terminal visual studio code dengan perintah berikut:
+    <ul>
+      <li>gem install jekyll bundler</li>
+      <li>bundle init</li>
+    </ul>
+  </li>
+  <li>kemudian masuk kefolder Gemfile yang muncul dan tambahkan
+    <ul>
+      <li>gem “jekyll” dibaris baru</li>
+    </ul>
+  </li>
+  <li>Tambahkan file baru dengan nama index.html dan isi dengan kode berikut &lt;!DOCTYPE html&gt;</li>
+</ul>
+
+<h1 id="hello-dunia">Hello Dunia</h1>
+
+<ul>
+  <li>Lalu ketik “jekyll build” di terminal agar menghasilkan directory _site</li>
+  <li>Dan jalankan “jekyll serve” dan klik url https://localhost:4000 yang muncul.</li>
+  <li>Jika web sudah berhasil dibuka, edit Gemfile.lock dan tambahkan “x86_64-Linux” pada bagian “Platforms”</li>
+  <li>Dan ketik perintah berikut untuk push ke repository github:
+    <ul>
+      <li>git add .</li>
+      <li>git commit -m “first publish”</li>
+      <li>git push</li>
+    </ul>
+  </li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Membuat Index.html dan menjalankan jekyll serve]]></summary></entry><entry><title type="html">instalasi jekyll dan membuat akun github</title><link href="http://localhost:4000/2025/02/21/Praktikum-1.html" rel="alternate" type="text/html" title="instalasi jekyll dan membuat akun github" /><published>2025-02-21T00:00:00+07:00</published><updated>2025-02-21T00:00:00+07:00</updated><id>http://localhost:4000/2025/02/21/Praktikum-1</id><content type="html" xml:base="http://localhost:4000/2025/02/21/Praktikum-1.html"><![CDATA[<p>Persiapan instalasi jekyll</p>
+
+<ul>
+  <li>Siapkan Aplikasi Dan Tools</li>
+  <li>Windows, linux, atau MacOS</li>
+  <li>Visual Studio Code</li>
+  <li>Google Chrome</li>
+  <li>Markdown</li>
+</ul>
+
+<p>Memulai Instalasi Jekyll</p>
+<ul>
+  <li>Download Ruby Versi 2.7.8++ di Websitenya Dan Install Jekyll Ruby</li>
+  <li>Dowload git</li>
+</ul>
+
+<p>Instalasi Github</p>
+<ul>
+  <li>Buka Website Github.com</li>
+  <li>Klik “Sign Up For Github”</li>
+  <li>Masukkan Email,Password, Username, Dan Country</li>
+  <li>Klik Continue</li>
+  <li>Kemudian ikuti langkah-langkah yang diminta oleh github.</li>
+  <li>syudahhhhh siapppp….</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Persiapan instalasi jekyll]]></summary></entry></feed>

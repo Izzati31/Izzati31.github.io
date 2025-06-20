@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-12T17:21:45+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Izzati Nurvira</title><subtitle>I&apos;m Izzati Nurvira, i am from Sigli.I am currently living in the dormitory of the Lhokseumawe State Polytechnic.</subtitle><entry><title type="html">Praktikum 7</title><link href="http://localhost:4000/2025/05/23/Praktikum-7.html" rel="alternate" type="text/html" title="Praktikum 7" /><published>2025-05-23T00:00:00+07:00</published><updated>2025-05-23T00:00:00+07:00</updated><id>http://localhost:4000/2025/05/23/Praktikum-7</id><content type="html" xml:base="http://localhost:4000/2025/05/23/Praktikum-7.html"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Menambahkan ke folder _students</title><link href="http://localhost:4000/2025/05/16/Praktikum-6.html" rel="alternate" type="text/html" title="Menambahkan ke folder _students" /><published>2025-05-16T00:00:00+07:00</published><updated>2025-05-16T00:00:00+07:00</updated><id>http://localhost:4000/2025/05/16/Praktikum-6</id><content type="html" xml:base="http://localhost:4000/2025/05/16/Praktikum-6.html"><![CDATA[<p>Menambahkan ke folder _students</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-20T11:21:09+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Izzati Nurvira</title><subtitle>I&apos;m Izzati Nurvira, i am from Sigli.I am currently living in the dormitory of the Lhokseumawe State Polytechnic.</subtitle><entry><title type="html">Praktikum 9</title><link href="http://localhost:4000/2025/06/20/Praktikum-9.html" rel="alternate" type="text/html" title="Praktikum 9" /><published>2025-06-20T00:00:00+07:00</published><updated>2025-06-20T00:00:00+07:00</updated><id>http://localhost:4000/2025/06/20/Praktikum-9</id><content type="html" xml:base="http://localhost:4000/2025/06/20/Praktikum-9.html"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Menggunakan PHP untuk membuat Form</title><link href="http://localhost:4000/2025/06/13/Praktikum-8.html" rel="alternate" type="text/html" title="Menggunakan PHP untuk membuat Form" /><published>2025-06-13T00:00:00+07:00</published><updated>2025-06-13T00:00:00+07:00</updated><id>http://localhost:4000/2025/06/13/Praktikum-8</id><content type="html" xml:base="http://localhost:4000/2025/06/13/Praktikum-8.html"><![CDATA[<p>13 jun 2025 
+Membuat form.
+Berikut langkah-langkahnya:</p>]]></content><author><name></name></author><summary type="html"><![CDATA[13 jun 2025 Membuat form. Berikut langkah-langkahnya:]]></summary></entry><entry><title type="html">Mengisi post sebelumnya</title><link href="http://localhost:4000/2025/05/23/Praktikum-7.html" rel="alternate" type="text/html" title="Mengisi post sebelumnya" /><published>2025-05-23T00:00:00+07:00</published><updated>2025-05-23T00:00:00+07:00</updated><id>http://localhost:4000/2025/05/23/Praktikum-7</id><content type="html" xml:base="http://localhost:4000/2025/05/23/Praktikum-7.html"><![CDATA[<p>cara mengisi data blog</p>
+
+<p>23 may 2025
+Mengisi postingan blog</p>
+
+<h1 id="langkah-langkah">langkah-langkah</h1>
+
+<ul>
+  <li>Buka blog github dengan akun github sendiri</li>
+  <li>Masuk ke folder_posts, lalu buat file baru dengan nama belakang file “.md”
+    <ul>
+      <li>contoh “2025-07-15-bintang.md”</li>
+    </ul>
+  </li>
+  <li>Buka file yang sudah di simpan, lalu isi apapun yang kalian mau</li>
+  <li>cek di jekyll secara lokal sebelum push ke github</li>
+  <li>Jika sudah jalan, commit dan push ke github</li>
+  <li>Cek di github pages
+  - Selesai</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[cara mengisi data blog]]></summary></entry><entry><title type="html">Menambahkan ke folder _students</title><link href="http://localhost:4000/2025/05/16/Praktikum-6.html" rel="alternate" type="text/html" title="Menambahkan ke folder _students" /><published>2025-05-16T00:00:00+07:00</published><updated>2025-05-16T00:00:00+07:00</updated><id>http://localhost:4000/2025/05/16/Praktikum-6</id><content type="html" xml:base="http://localhost:4000/2025/05/16/Praktikum-6.html"><![CDATA[<p>Menambahkan ke folder _students</p>
 
 <p>16 may 2025
 Belajar Menambahkan ke folder _students di repository lain</p>
@@ -17,7 +38,76 @@ Belajar Menambahkan ke folder _students di repository lain</p>
   <li>Dan klik “Propose changes”</li>
   <li>Setelah selesai semua, klik “Create pull request”</li>
   <li>Dan tunggu hingga di accept oleh owner repository tersebut.</li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Menambahkan ke folder _students]]></summary></entry><entry><title type="html">Praktikum 5</title><link href="http://localhost:4000/2025/04/25/Praktikum-5.html" rel="alternate" type="text/html" title="Praktikum 5" /><published>2025-04-25T00:00:00+07:00</published><updated>2025-04-25T00:00:00+07:00</updated><id>http://localhost:4000/2025/04/25/Praktikum-5</id><content type="html" xml:base="http://localhost:4000/2025/04/25/Praktikum-5.html"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Praktikum 4</title><link href="http://localhost:4000/2025/03/21/Praktikum-4.html" rel="alternate" type="text/html" title="Praktikum 4" /><published>2025-03-21T00:00:00+07:00</published><updated>2025-03-21T00:00:00+07:00</updated><id>http://localhost:4000/2025/03/21/Praktikum-4</id><content type="html" xml:base="http://localhost:4000/2025/03/21/Praktikum-4.html"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Belajar Buat Post</title><link href="http://localhost:4000/2025/03/14/Praktikum-3.html" rel="alternate" type="text/html" title="Belajar Buat Post" /><published>2025-03-14T00:00:00+07:00</published><updated>2025-03-14T00:00:00+07:00</updated><id>http://localhost:4000/2025/03/14/Praktikum-3</id><content type="html" xml:base="http://localhost:4000/2025/03/14/Praktikum-3.html"><![CDATA[<p>Belajar Buat Post</p>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Menambahkan ke folder _students]]></summary></entry><entry><title type="html">Belajar Menambahkan JavaScript pada Website</title><link href="http://localhost:4000/2025/04/25/Praktikum-5.html" rel="alternate" type="text/html" title="Belajar Menambahkan JavaScript pada Website" /><published>2025-04-25T00:00:00+07:00</published><updated>2025-04-25T00:00:00+07:00</updated><id>http://localhost:4000/2025/04/25/Praktikum-5</id><content type="html" xml:base="http://localhost:4000/2025/04/25/Praktikum-5.html"><![CDATA[<p>Belajar Menambahkan JavaScript pada Website</p>
+
+<p>25 apr 2025
+Penjelasan Fundamental JavaSript DOM(Document Object Model)</p>
+
+<h1 id="fundamental-javasript-dom-document-object-model">Fundamental JavaSript DOM (Document Object Model)</h1>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>DOM (Document Object Model) adalah Representasi struktur halaman HTML dalam bentuk objek.
+Ketika browser memuat halaman HTML, dia mengubahnya menjadi objek supaya bisa diakses dan diubah dengan JavaScript
+</code></pre></div></div>
+
+<h1 id="dom-digunakan-untuk">Dom digunakan untuk:</h1>
+<ul>
+  <li>Mengubah isi halaman secara dinamis</li>
+  <li>Menambahkan atau menghapus elemen</li>
+  <li>Mengubah style (warna, ukuran, dsb)</li>
+  <li>Menangani interaksi pengguna (klik, input, dll)</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Belajar Menambahkan JavaScript pada Website]]></summary></entry><entry><title type="html">HTML Link dan List</title><link href="http://localhost:4000/2025/03/21/Praktikum-4.html" rel="alternate" type="text/html" title="HTML Link dan List" /><published>2025-03-21T00:00:00+07:00</published><updated>2025-03-21T00:00:00+07:00</updated><id>http://localhost:4000/2025/03/21/Praktikum-4</id><content type="html" xml:base="http://localhost:4000/2025/03/21/Praktikum-4.html"><![CDATA[<p>HTML Link dan List</p>
+
+<p>21 Mar 2025
+Penjelasan tentang link dan lists pada HTML</p>
+
+<h1 id="linktautan-di-html">Link(tautan) di HTML</h1>
+
+<p>link di gunakan untuk menghubungkan halaman satu dengan yang lain, baik itu halaman di situs yang sama maupun ke situs lain. contohnya : klik disini</p>
+
+<ul>
+  <li>Tag Dasar
+  Teks yang diklik</li>
+  <li>Atribut penting
+    <ul>
+      <li>href: alamat tujuan link (URL atau path).</li>
+      <li>terget=”_blank”: membuka link di tab baru.</li>
+      <li>title: menampilkan keterangan saat cursor diarahkan ke link.</li>
+      <li>contoh: Buka Google
+ LISTS (daftar) di HTML</li>
+    </ul>
+  </li>
+</ul>
+
+<p>HTML memiliki tiga jenis daftar(list):</p>
+
+<ul>
+  <li>Ordered List(&lt;ol&gt;) menurut angka / huruf
+    <ol>
+      <li>item pertama</li>
+      <li>item kedua</li>
+    </ol>
+  </li>
+  <li>unordered List(&lt;ul&gt;) tidak berurutan (menggunakan bullet).
+    <ul>
+      <li>item A</li>
+      <li>item B</li>
+    </ul>
+  </li>
+  <li>Description lists (&lt;dl&gt;) untuk mendeskripsikan atau daftar berpasangan .
+    <ul>
+      <li>HTML
+  bahasa markup untuk membuat halaman web.</li>
+    </ul>
+  </li>
+  <li>kesimpulan
+    <ul>
+      <li>ul = unordered lidt sebagai wadah menu.</li>
+      <li>li = setiap item menu.</li>
+      <li>a = link ke halaman lain.</li>
+      <li>CSS digunakan untuk membuat tampilan horizontal dan interaktif.</li>
+    </ul>
+  </li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[HTML Link dan List]]></summary></entry><entry><title type="html">Belajar Buat Post</title><link href="http://localhost:4000/2025/03/14/Praktikum-3.html" rel="alternate" type="text/html" title="Belajar Buat Post" /><published>2025-03-14T00:00:00+07:00</published><updated>2025-03-14T00:00:00+07:00</updated><id>http://localhost:4000/2025/03/14/Praktikum-3</id><content type="html" xml:base="http://localhost:4000/2025/03/14/Praktikum-3.html"><![CDATA[<p>Belajar Buat Post</p>
 
 <p>14 Maret 2025
 Mempelajari cara membuat post dengan bahasa markdown</p>
@@ -27,7 +117,7 @@ Mempelajari cara membuat post dengan bahasa markdown</p>
 <p>Mempelajari cara membuat postingan menggunakan bahasa markdown.
 Markdown adalah bahasa markup ringan yang mudah digunakan untuk menulis teks dengan format tertentu, seperti *teks tebal, *teks miring, tautan, gambar, dan lainnya.</p>
 
-<p>🧱 Struktur Dasar Markdown</p>
+<h1 id="struktur-dasar-markdown">Struktur Dasar Markdown</h1>
 
 <ol>
   <li>Judul / Heading</li>
@@ -60,9 +150,30 @@ Markdown adalah bahasa markup ringan yang mudah digunakan untuk menulis teks den
 
 <p>Langsung tulis saja. Markdown akan otomatis membaca baris kosong sebagai paragraf baru.</p>
 
-<p>ini adalah paragraf pertama</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ini adalah paragraf pertama
 
-<p>ini paragraf kedua</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Belajar Buat Post]]></summary></entry><entry><title type="html">Membuat Index.html dan jekyll serve</title><link href="http://localhost:4000/2025/03/07/Praktikum-2.html" rel="alternate" type="text/html" title="Membuat Index.html dan jekyll serve" /><published>2025-03-07T00:00:00+07:00</published><updated>2025-03-07T00:00:00+07:00</updated><id>http://localhost:4000/2025/03/07/Praktikum-2</id><content type="html" xml:base="http://localhost:4000/2025/03/07/Praktikum-2.html"><![CDATA[<p>Membuat Index.html dan menjalankan jekyll serve</p>
+    ini paragraf kedua
+</code></pre></div></div>
+
+<ol>
+  <li>List (Daftar)
+    <ul>
+      <li>Daftar tak bernomor (unordered list)</li>
+    </ul>
+    <ul>
+      <li>item 1</li>
+      <li>item 2</li>
+      <li>Sub-item(item juga bisa dipakai tanda bintang)
+    - Daftar bernomor (ordered list)
+        <ol>
+          <li>Item pertama</li>
+          <li>Item kedua</li>
+          <li>sub-item</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+</ol>]]></content><author><name></name></author><summary type="html"><![CDATA[Belajar Buat Post]]></summary></entry><entry><title type="html">Membuat Index.html dan jekyll serve</title><link href="http://localhost:4000/2025/03/07/Praktikum-2.html" rel="alternate" type="text/html" title="Membuat Index.html dan jekyll serve" /><published>2025-03-07T00:00:00+07:00</published><updated>2025-03-07T00:00:00+07:00</updated><id>http://localhost:4000/2025/03/07/Praktikum-2</id><content type="html" xml:base="http://localhost:4000/2025/03/07/Praktikum-2.html"><![CDATA[<p>Membuat Index.html dan menjalankan jekyll serve</p>
 
 <p>07 Mar 2025</p>
 <ul>
@@ -124,5 +235,5 @@ Markdown adalah bahasa markup ringan yang mudah digunakan untuk menulis teks den
   <li>Masukkan Email,Password, Username, Dan Country</li>
   <li>Klik Continue</li>
   <li>Kemudian ikuti langkah-langkah yang diminta oleh github.</li>
-  <li>syudahhhhh siapppp….</li>
+  <li>Dan syudahhhhh siapppp….</li>
 </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Persiapan instalasi jekyll]]></summary></entry></feed>
